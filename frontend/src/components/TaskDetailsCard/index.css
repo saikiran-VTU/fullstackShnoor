@@ -1,0 +1,16 @@
+
+body{
+    margin: 0px;
+}
+
+.bg-container{
+    
+
+}
+.bg-card-container{
+    background-color: antiquewhite;
+    color: black;
+    width: 220px;
+    padding: 40px;
+    border-radius: 7px;
+}
